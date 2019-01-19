@@ -1,5 +1,3 @@
-The VBA of Wall Street
-
 ## The_VBA_of_Wall_Street
 
 
